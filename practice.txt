@@ -1,2 +1,0 @@
-ECHO is on.
-I am doing B.Sc in CSE from City University.
